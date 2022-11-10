@@ -100,9 +100,20 @@
     margin-top: 30px;
     padding: 10px;
     border-radius: 5px;
-    
 }
+.btn-1 {
+    background-color: #c05326;
+    color: #fff;
+    border-style: none;
+    font-weight: bold;
+}
+.btn-2 {
+    background-color: #fff;
+    color: #c05326;
+    border-style: none;
+    font-weight: bold;
 
+}
 
 
 .heading-underline {
